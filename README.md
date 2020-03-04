@@ -9,3 +9,6 @@
 * 테스트코드작성
   * https://repo.yona.io/doortts/blog/issue/2
     * 제일 마지막 최종목표!
+
+[chrome dev-tools]
+  *  https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=ko
