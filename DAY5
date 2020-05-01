@@ -1,0 +1,24 @@
+ ** 1. 객체 생성 Object 생성자 함수 사용
+ ** < var foo = var new Object(); 
+ ** 2. 객체 생성 리터럴 방식
+ ** < var foo2  = 
+    {
+    "name" : "탐쓰"
+    ,  "age" : "8"
+    ,  "gender" : "man"
+    };
+ ** 3. 프로퍼티 읽기 / 쓰기 / 갱신
+ ** < console.log(foo2.name);   //읽기
+ ** < delete foo2.age;          //삭제 [프로퍼티만 삭제 가능]
+ ** < foo2.name = '탐타미';     //쓰기
+ ** < for(Map in foo3)
+      {
+        console.log(Map, foo3[Map]);
+      };
+      // for in 문
+ ** < 객체 비교  ==
+
+ //live server 설치후 로컬에서 컴파일 가능!
+ //git commit 은 터미널에서 명령어 날려서 커밋함..
+ 
+
