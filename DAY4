@@ -1,0 +1,6 @@
+개념정의를 아예 잘못알고 있었슴..
+1.WEBPACK 은 bundle 로써 여러 js파일을 import 나 inint 하지 않고 한꺼번에 말아주는 역활
+2.내가 하고싶은건 local에서 웹서버를 띄어서 컴파일 하고싶은것.!
+3. live server 확장프로그램으로 사용가능
+4. live server 설치 완료 및 hello world 찍히는거 확인! 초기 포트는 5500 이엿으나 
+settings.json 에서 "liveServer.settings.port": 8080 로 포트 변경
